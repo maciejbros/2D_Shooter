@@ -1,0 +1,67 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+
+# Visual Studio generated files
+*.VC.db
+*.VC.VC.opendb
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+
+# C/C++ generated files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.res
+
+# Visual Studio Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+Makefile
+compile_commands.json
+
+# vcpkg
+vcpkg_installed/
+
+# NuGet / packages
+packages/
+
+# Allegro generated/log files
+allegro.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
